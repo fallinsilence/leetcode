@@ -2,6 +2,10 @@ package stack;
 
 import java.util.Stack;
 
+/**
+ * 20. Valid Parentheses
+ */
+
 public class ValidParentheses {
     public static void main(String[] args) {
         boolean valid = new ValidParentheses().isValid("[]{}");
